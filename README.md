@@ -33,4 +33,5 @@ Best case: Aradığımız sayının dizinin en başında olması.
 2. [2,3,5,8,7,9,4,15,6]		(n-1)
 3. [2,3,4,8,7,9,5,15,6]		(n-2)
 4. [2,3,4,5,7,9,8,15,6]		(n-3)
+
 www.patika.dev
